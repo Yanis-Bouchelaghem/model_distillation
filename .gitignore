@@ -9,3 +9,10 @@ __pycache__/
 
 # Virtual environment
 venv/
+
+# datasets
+CIFAR10/
+
+# Training results
+lightning_logs/
+models/
